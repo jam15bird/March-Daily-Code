@@ -1,4 +1,4 @@
-#include <iostream>   //Made by Jose Medina and Teodoro Martinez
+#include <iostream>  
 using namespace std;
 #include <string>
 int main() {
@@ -16,5 +16,5 @@ int main() {
 		cout << game[i] << endl;
 
 	}
-	system("Pause");
+
 }
